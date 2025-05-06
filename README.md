@@ -27,3 +27,5 @@ The script performs three main analytical tasks:
 
 After performing the computations, the results of the sales and customer analysis are saved to CSV files for future reference or reporting. This output can be useful for business intelligence dashboards or decision-making processes.
 
+## OUTPUT
+

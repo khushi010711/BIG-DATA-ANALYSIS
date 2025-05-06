@@ -29,3 +29,4 @@ After performing the computations, the results of the sales and customer analysi
 
 ## OUTPUT
 
+[output.txt](https://github.com/user-attachments/files/20068684/output.txt)

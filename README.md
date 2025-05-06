@@ -29,29 +29,3 @@ After performing the computations, the results of the sales and customer analysi
 
 ## OUTPUT
 
-Total Sales by Product:
- product
-Keyboard    3.884635e+08
-Phone       3.876860e+08
-Tablet      3.874650e+08
-Laptop      3.872492e+08
-Monitor     3.861574e+08
-Name: total_price, dtype: float64
-
-Average Order Value by Customer:
- customer
-Diana      1942.548751
-Charlie    1938.462617
-Bob        1937.067757
-Eve        1934.750870
-Alice      1932.252656
-Name: total_price, dtype: float64
-
-Product Purchase Frequency:
- product
-Phone       199970
-Tablet      199962
-Laptop      199918
-Keyboard    200379
-Monitor     199771
-Name: count, dtype: int64[pyarrow]
